@@ -1,0 +1,36 @@
+c:\users\мурат\documents\visual studio 2013\Projects\calc\calc\bin\Debug\calc.exe.config
+c:\users\мурат\documents\visual studio 2013\Projects\calc\calc\bin\Debug\calc.exe
+c:\users\мурат\documents\visual studio 2013\Projects\calc\calc\bin\Debug\calc.pdb
+c:\users\мурат\documents\visual studio 2013\Projects\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+c:\users\мурат\documents\visual studio 2013\Projects\calc\calc\obj\Debug\calc.Form1.resources
+c:\users\мурат\documents\visual studio 2013\Projects\calc\calc\obj\Debug\calc.Properties.Resources.resources
+c:\users\мурат\documents\visual studio 2013\Projects\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+c:\users\мурат\documents\visual studio 2013\Projects\calc\calc\obj\Debug\calc.exe
+c:\users\мурат\documents\visual studio 2013\Projects\calc\calc\obj\Debug\calc.pdb
+C:\PT\Calc\Calculator-in-Windows-Forms-master\calc\bin\Debug\calc.exe.config
+C:\PT\Calc\Calculator-in-Windows-Forms-master\calc\bin\Debug\calc.exe
+C:\PT\Calc\Calculator-in-Windows-Forms-master\calc\bin\Debug\calc.pdb
+C:\PT\Calc\Calculator-in-Windows-Forms-master\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+C:\PT\Calc\Calculator-in-Windows-Forms-master\calc\obj\Debug\calc.Form1.resources
+C:\PT\Calc\Calculator-in-Windows-Forms-master\calc\obj\Debug\calc.Properties.Resources.resources
+C:\PT\Calc\Calculator-in-Windows-Forms-master\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+C:\PT\Calc\Calculator-in-Windows-Forms-master\calc\obj\Debug\calc.exe
+C:\PT\Calc\Calculator-in-Windows-Forms-master\calc\obj\Debug\calc.pdb
+G:\Calc\Calculator\calc\bin\Debug\calc.exe.config
+G:\Calc\Calculator\calc\obj\Debug\calc.exe
+G:\Calc\Calculator\calc\obj\Debug\calc.pdb
+G:\Calc\Calculator\calc\bin\Debug\calc.exe
+G:\Calc\Calculator\calc\bin\Debug\calc.pdb
+G:\Calc\Calculator\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+G:\Calc\Calculator\calc\obj\Debug\calc.Form1.resources
+G:\Calc\Calculator\calc\obj\Debug\calc.Properties.Resources.resources
+G:\Calc\Calculator\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+C:\PT\Calc\Calculator\calc\bin\Debug\calc.exe.config
+C:\PT\Calc\Calculator\calc\bin\Debug\calc.exe
+C:\PT\Calc\Calculator\calc\bin\Debug\calc.pdb
+C:\PT\Calc\Calculator\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+C:\PT\Calc\Calculator\calc\obj\Debug\calc.Form1.resources
+C:\PT\Calc\Calculator\calc\obj\Debug\calc.Properties.Resources.resources
+C:\PT\Calc\Calculator\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+C:\PT\Calc\Calculator\calc\obj\Debug\calc.exe
+C:\PT\Calc\Calculator\calc\obj\Debug\calc.pdb
